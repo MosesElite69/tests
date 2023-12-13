@@ -1,10 +1,10 @@
 import './App.css'
-
+import MainStuff from './Mainstuff'
 function App() {
 
   return (
     <>
-      <h1 className='underline bold text-3xl' >Hello World</h1>
+      <MainStuff />
     </>
   )
 }
